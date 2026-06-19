@@ -1,0 +1,23 @@
+@import "tailwindcss";
+.wrapper{
+  width: 100vw;
+  height: 100vh;
+  background: black;
+}
+
+@theme {
+   --color-nilla: #02b8f3;
+   --color-dark-nilla: #002970;
+   --color-light:#f5f5f5;
+   --color-light-blue:#00b0e3;
+   --color-dark-blue:#0d3e80;
+   --color-off-white: #f6f8fa;
+   --breakpoint-verysmall:440px; 
+   --breakpoint-small: 500px; 
+   --breakpoint-smedium : 640px;         
+   --breakpoint-medium: 900px;         
+   --breakpoint-large: 1090px;       
+
+  
+   
+}
